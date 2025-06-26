@@ -4,7 +4,7 @@ app_publisher = "Eng. Abdullah Dheir"
 app_email = "abdullah.dheir@gmail.com"
 app_version = "0.0.1"
 
-app_include_js = ["raven_livekit/public/js/livekit_call.js"]
+app_include_js = "/assets/raven_livekit/js/livekit.min.js"
 
 override_whitelisted_methods = {
     "raven_livekit.livekit.get_token": "raven_livekit.livekit_token.get_livekit_token",
