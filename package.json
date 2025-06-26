@@ -1,18 +1,6 @@
 {
   "name": "raven_livekit",
   "version": "1.0.0",
-  "description": "Raven LiveKit",
-  "type": "module",
-  "workspaces": [
-    "frappe-ui",
-    "frontend"
-  ],
-  "scripts": {},
-  "private": true,
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abdullahdheir/raven_livekit.git"
-  },
-  "author": "Eng. Abdullah Dheir",
-  "license": "AGPL-3.0-or-later"
+  "description": "LiveKit integration for Raven",
+  "private": true
 }
