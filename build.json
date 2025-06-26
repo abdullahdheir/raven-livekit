@@ -1,0 +1,3 @@
+{
+  "js/livekit.min.js": ["raven_livekit/public/js/livekit_call.js"]
+}
